@@ -21,12 +21,12 @@ public class OutPut {
             ______________________________
             | Specifier | Meaning        |
             |-----------|----------------|
-            | `%d`      | Integet        |
+            | `%d`      | Integer        |
             | `%f`      | Floating-point |
-            | `%s`      | Strint         |
-            | `%c`      | Charactet      |
-            | `%b`      | Booleat        |
-            | `%n`      | New lint       |
+            | `%s`      | String         |
+            | `%c`      | Character      |
+            | `%b`      | Boolean        |
+            | `%n`      | New line       |
             ------------------------------
             */
     }
